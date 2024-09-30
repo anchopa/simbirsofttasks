@@ -25,3 +25,6 @@ abstract class Vehicle {
         System.out.println("Марка: " + make + ", Модель: " + model + ", Год: " + year);
     }
 }
+
+
+//homework complited
